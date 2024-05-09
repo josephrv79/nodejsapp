@@ -1,0 +1,12 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "NodeJS basic application with Github Actions CI/CD workflow",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"    
+  },
+  "keywords": [],
+  "author": "Gabriel Villacis",
+  "license": "ISC" 
+}
