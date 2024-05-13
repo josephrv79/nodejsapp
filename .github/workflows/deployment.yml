@@ -9,4 +9,4 @@ jobs:
   deploy:
     runs-on: self-hosted
     steps:
-      - run: echo 'Ejecutando deploy job en el runner de aws ec2'
+      - run: echo 'Ejecutando deploy job en el roger runner de aws ec2'
