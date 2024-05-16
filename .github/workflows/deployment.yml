@@ -7,6 +7,6 @@ on: [push]
 
 jobs:
   deploy:
-    runs-on: nodejsapp-runner
+    runs-on: self-hosted
     steps:
       - run: echo 'Ejecutando deploy job en el roger runner de aws ec2'
